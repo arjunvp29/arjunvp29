@@ -5,6 +5,8 @@ I'm ,Arjun Vattakandy Prasannan a beginner in cybersecurity with a focus on blue
 
 <a href="https://linkedin.com/in/arjun-vp29"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-arjun29-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/arjun29)
+
 <details>
   <summary>More about me</summary>
 
@@ -16,6 +18,16 @@ I'm ,Arjun Vattakandy Prasannan a beginner in cybersecurity with a focus on blue
 - Building: a home lab with a SIEM and sample attack simulations
 - Continuously improving my knowledge of **Defensive security** and **Cybersecurity Skills**.
 - I’m currently learning and exploring SIEM and sample attack simulations.
+
+I use TryHackMe to build practical skills in offensive and defensive security.
+
+- **Rank:** Top 6% globally
+- **Rooms completed:** 81+
+- **Learning paths:** Pre Security, Cyber Security 101, SOC Level 1
+- **Skills practiced:** Nmap, Burp Suite, Metasploit, Wireshark, SOC workflows, alert triage, incident handling basics, splunk, Snort, Sysmon
+- **Currently learning:** AI Security
+
+[View my profile](https://tryhackme.com/p/arjun29)
 
 </details>
 <br>
